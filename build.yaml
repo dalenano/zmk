@@ -14,4 +14,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: contra nice_view_adapter nice_view
+    shield: contra nice_view
